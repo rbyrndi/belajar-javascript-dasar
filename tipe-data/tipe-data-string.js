@@ -1,0 +1,1 @@
+document.writeln("ini adalah string" + " hehe")
